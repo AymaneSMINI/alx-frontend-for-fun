@@ -692,9 +692,6 @@ form{
   background-color: var(--color-white);
   box-shadow: none;
   outline: 0;
-  border: .1rem solid var(--color-grey);;
-  background-color: var(--color-light-grey);
-
 }
 
 input[type="text"], input[type="email"] {
